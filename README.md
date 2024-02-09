@@ -1,8 +1,8 @@
 # Spotify-Music-Analysis
 
-##Show case
+## Showcase
 
-[![gif](https://github.com/ttu700/Spotify-Music-Analysis/blob/main/spotifyprojectshowcase.gif?raw=true)
+![gif](https://github.com/ttu700/Spotify-Music-Analysis/blob/main/spotifyprojectshowcase.gif?raw=true)
 
 ## Description
 
